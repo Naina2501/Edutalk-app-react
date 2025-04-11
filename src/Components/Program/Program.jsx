@@ -2,7 +2,7 @@ import React from 'react'
 import "./Program.css"
 const Program = () => {
   return (
-    <div className=' Programs'>
+    <div className=' programs'>
           <div className='program'>
             <img src="https://www.leadershipbroward.org/wp-content/uploads/2017/06/photodune-1678194-group-of-graduate-students-xxl-1.jpg"></img>
             <div className="caption">

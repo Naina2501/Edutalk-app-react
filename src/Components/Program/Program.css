@@ -1,4 +1,4 @@
-.Programs{
+.programs{
     margin: 80px auto;
     width: 90%;
     display: flex;
@@ -46,7 +46,7 @@
 /*--Media query--*/
 
 @media (max-width:650px){
-    .Programs{
+    .programs{
     flex-direction: column;
     }
     .program{
