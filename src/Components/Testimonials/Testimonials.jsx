@@ -54,7 +54,7 @@ const Testimonials = () => {
             <li>
             <div className="slide">
               <div className='user-info'>
-              <img src=''></img>
+              <img src='https://i.pinimg.com/originals/7a/8c/6f/7a8c6f3d25e3b3d5b1179e6aee39ce23.jpg'></img>
               <div>
                 <h3>William Jackson</h3>
                 <span>Edusity ,USA</span>
