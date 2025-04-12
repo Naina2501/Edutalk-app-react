@@ -4,11 +4,11 @@ import "./Footer.css"
 const Footer = () => {
   return (
     <div className='footer'>
-      <p>@ 2025 EduTalk .All rights reserved</p>
+      <p>@2025 EduTalk .All rights reserved</p>
        <ul>
         <li>terms and Conditions</li>
         <li>Privacy Policy</li>
-        </ul> 
+      </ul> 
     </div>
   )
 }

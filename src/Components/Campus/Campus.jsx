@@ -16,8 +16,6 @@ const Campus = () => {
             <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://images.ctfassets.net/wp1lcwdav1p1/5rchhYoWZjvWtgKIVGOTNM/f6d4142256c29a1f8766b12cea5cd5ae/GettyImages-1439945611.jpg?w=1500&h=680&q=60&fit=fill&f=faces&fm=jpg&fl=progressive&auto=format%2Ccompress&dpr=1&w=1000" alt="" />
      
         </div>
-        
-         
         <button className=' nav-btn dark-btn'> See more here<span className='mx-3 bi bi-arrow-right'></span></button>
     </div>
   )

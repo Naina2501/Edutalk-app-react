@@ -23,7 +23,6 @@ const Navbar = () => {
             <li><Link to="about" smooth={true} offset={-150} duration={500}>About-us</Link></li>
             <li><Link to="testimonials" smooth={true} offset={-260} duration={500}>Campus</Link></li>
             <li><Link to="campus" smooth={true} offset={-150} duration={500}>About-us</Link></li>
-
             <li className='mt-3'><Link className='nav-btn text-decoration-none ' to="contact" smooth={true} offset={0} duration={500} >Contact</Link></li>
         </ul>
         <div className='menu-icon bi bi-list' onClick={toggleMenu}></div>
